@@ -1,0 +1,128 @@
+[
+    {
+        "packages": [
+            {
+                "id": 1,
+                "name": "ALASKA BY LAND & SEA",
+                "shortDescription": "Explore the wild and wonderful Alaskan wilderness during this 4-days guided tour.",
+                "price": 479,
+                "days": "4 Days",
+                "star": 4.5,
+                "rating": "1,041",
+                "status": "Pending",
+                "img": "https://i.ibb.co/LZbLVjt/tour-1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "DUBAI SHOPPING FESTIVAL",
+                "shortDescription": "Dubai Shopping Festival is an annual month long event put together by the Dubai Festivals & Retail.",
+                "price": 799,
+                "days": "6 Days",
+                "star": 4.6,
+                "rating": "2,541",
+                "status": "Pending",
+                "img": "https://i.ibb.co/PYBgM2B/tour-2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "HIMALAYAS & KATHMANDU",
+                "shortDescription": "Kathmandu, Nepal's capital, is set in a valley surrounded by the Himalayan mountains.",
+                "price": 599,
+                "days": "6 Days",
+                "star": 4.7,
+                "rating": "1,541",
+                "status": "Pending",
+                "img": "https://i.ibb.co/r7Hmpfk/tour-3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "MAJESTIC BANGKOK",
+                "shortDescription": "Majestic Suites Hotel is located along Bangkok’s Sukhumvit Road, a 10-minute walk from Nana BTS Skytrain Station.",
+                "price": 1250,
+                "days": "6 Days",
+                "star": 5,
+                "rating": "4,245",
+                "status": "Pending",
+                "img": "https://i.ibb.co/1Rr2QWV/tour-4.jpg"
+            },
+            {
+                "id": 5,
+                "name": "OCEANFRONT MEXICO RESORT",
+                "shortDescription": "Fill your day with beach activities, spa treatments, and excursions to nearby attractions.",
+                "price": 485,
+                "days": "5 Days",
+                "star": 4.4,
+                "rating": "1,556",
+                "status": "Pending",
+                "img": "https://i.ibb.co/FnmJzCS/tour-5.jpg"
+            },
+            {
+                "id": 6,
+                "name": "SWISS PEAKS",
+                "shortDescription": "Holiday residences combining high-quality accommodation and authentic experiences.",
+                "price": 345,
+                "days": "4 Days",
+                "star": 4.8,
+                "rating": "3,785",
+                "status": "Pending",
+                "img": "https://i.ibb.co/WysY53Y/tour-6.jpg"
+            }
+        ],
+        "blogs": [
+            {
+                "id": 1,
+                "title": "The Amazing Difference a Year of Travelling Abroad Can Make in Your Life",
+                "date": "April 01, 2019",
+                "comments": 51,
+                "img": "https://i.ibb.co/71mVft7/blog-image-1.jpg"
+            },
+            {
+                "id": 2,
+                "title": "My Favorite Travel Books of 2019 and What Makes Them Worth Your Money",
+                "date": "April 5, 2019",
+                "comments": 49,
+                "img": "https://i.ibb.co/wYpqZd1/blog-image-2.jpg"
+            },
+            {
+                "id": 3,
+                "title": "How to Save Money While Visiting Africa and 9 Cool Things to Do There",
+                "date": "April 20, 2019",
+                "comments": 81,
+                "img": "https://i.ibb.co/XbdbfW0/blog-image-3.jpg"
+            },
+            {
+                "id": 4,
+                "title": "Announcing the 2019 City Guide Editions (plus Two New Digital Guidebooks!)",
+                "date": "April 25, 2019",
+                "comments": 48,
+                "img": "https://i.ibb.co/85dZ3jP/blog-image-4.jpg"
+            }
+        ],
+        "services": [
+            {
+                "id": 1,
+                "title": "Air Ticketing",
+                "details": "Cheap Flights, Airline Tickets and Flight Deals. Compare 100s of Airlines Worldwide. Cheap Flights and Airline Tickets. Book the Best Flight for Your Next Destination! No booking fees.",
+                "img": "https://i.ibb.co/cJ0cG0y/box-icon-1.png"
+            },
+            {
+                "id": 2,
+                "title": "Hotel Bookings",
+                "details": "Online hotel reservations are a popular method for booking hotel rooms. Travellers can book rooms on a computer by using online security to protect their privacy and financial information.",
+                "img": "https://i.ibb.co/qDqDpc3/box-icon-2.png"
+            },
+            {
+                "id": 3,
+                "title": "Meet & Assist",
+                "details": "Airport Meet and Assist is a personal VIP service which provide a local airport staffer to accompany travellers through the airport. These experts help passengers navigate through security, paperwork.",
+                "img": "https://i.ibb.co/PMGMbmD/box-icon-3.png"
+            },
+            {
+                "id": 4,
+                "title": "Business Travel",
+                "details": "Business travel is travel undertaken for work or business purposes, as opposed to other types of travel, such as for leisure purposes or regularly commuting between one's home and workplace.",
+                "img": "https://i.ibb.co/kcfKD0m/box-icon-4.png"
+            }
+        ]
+    }
+]
